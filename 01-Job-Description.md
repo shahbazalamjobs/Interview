@@ -1,5 +1,3 @@
-# Interview
-
 # Frontend Developer Job Description Summary
 
 ## Overview
