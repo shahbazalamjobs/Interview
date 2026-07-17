@@ -356,8 +356,9 @@ These are valuable but slightly lower priority.
 ## 1. HTML, CSS, JavaScript & Security
 
 - HTML CSS JS React
-  [Link 1](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
-  [Link 2](https://www.greatfrontend.com/blog/50-must-know-html-css-and-javascript-interview-questions-by-ex-interviewers)
+  a) [Link 1](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
+  
+  b) [Link 2](https://www.greatfrontend.com/blog/50-must-know-html-css-and-javascript-interview-questions-by-ex-interviewers)
 
 - JavaScript Coding Interview Questions (GitHub)  
   https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview-questions-answers
