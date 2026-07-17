@@ -184,11 +184,111 @@ I would add categories and an undo option for deletes.
 
 ---
 
-## General Evaluation Criteria (Both Phases, All Projects)
 
-- Semantic HTML and accessibility
-- Clean, maintainable code structure
-- Correct and complete UI states (default, hover, focus, active, disabled, loading, empty, error, success)
-- Responsive design (Flexbox/Grid in vanilla; Tailwind's responsive utilities in React)
-- Thoughtful state management, not just "it works"
-- A README and a completed project note for each project, including what changed between the vanilla and React versions
+For a **fresher frontend developer (HTML + CSS + JavaScript) machine coding round**, you should prioritize problems that are repeatedly asked because they test practical frontend skills.
+
+I have ranked them based on:
+
+* Interview frequency
+* Real-world frontend usage
+* Concepts covered
+* Difficulty suitable for fresher/SDE-1
+
+# 🔥 Top 30 Most Important Machine Coding Problems (Fresher Level)
+
+| Rank | Problem                                      | Main Concepts Tested                                   |
+| ---- | -------------------------------------------- | ------------------------------------------------------ |
+| 1    | **Todo List (CRUD)**                         | DOM manipulation, events, localStorage, state handling |
+| 2    | **Autocomplete / Typeahead**                 | Debounce, API calls, filtering, async JS               |
+| 3    | **Debounced Search (Flipkart/Amazon style)** | Debouncing, fetch API, optimization                    |
+| 4    | **Modal Component**                          | DOM, events, reusable UI, accessibility                |
+| 5    | **Dropdown Component**                       | Click events, outside click detection                  |
+| 6    | **Accordion**                                | State handling, DOM updates                            |
+| 7    | **Tabs Component**                           | Component logic, event handling                        |
+| 8    | **Form Validation**                          | Input handling, regex, errors                          |
+| 9    | **Multi Step Form**                          | Form state, validation flow                            |
+| 10   | **Pagination**                               | Data rendering, page management                        |
+| 11   | **Infinite Scroll**                          | Intersection Observer, lazy loading                    |
+| 12   | **Data Table**                               | Sorting, filtering, pagination                         |
+| 13   | **Image Carousel**                           | Timers, DOM updates, CSS transitions                   |
+| 14   | **Image Gallery with Search + Pagination**   | API, filtering, pagination                             |
+| 15   | **Stopwatch**                                | setInterval, clearInterval                             |
+| 16   | **Countdown Timer**                          | Date calculations, timers                              |
+| 17   | **Progress Bar**                             | Animation, async updates                               |
+| 18   | **Star Rating Component**                    | Mouse events, dynamic UI                               |
+| 19   | **Drag and Drop**                            | Drag events, DOM manipulation                          |
+| 20   | **Kanban Board**                             | Drag/drop, complex state handling                      |
+| 21   | **Nested Comments System**                   | Recursion, tree data                                   |
+| 22   | **Job Board**                                | API integration, cards, filtering                      |
+| 23   | **OTP Input Component**                      | Keyboard events, focus management                      |
+| 24   | **Password Generator**                       | Randomization, DOM updates                             |
+| 25   | **Calculator**                               | JavaScript logic, events                               |
+| 26   | **Digital Clock**                            | Date API, timers                                       |
+| 27   | **Responsive Navbar**                        | HTML/CSS, responsive design                            |
+| 28   | **Holy Grail Layout**                        | Flexbox/Grid                                           |
+| 29   | **File Explorer**                            | Recursive rendering                                    |
+| 30   | **Transfer List**                            | Array manipulation, moving items                       |
+
+---
+
+# ⚡ Next 20 Important Problems (After Top 30)
+
+These are valuable but slightly lower priority.
+
+| Rank | Problem               | Main Concepts Tested       |
+| ---- | --------------------- | -------------------------- |
+| 31   | Like Button           | State toggle               |
+| 32   | Poll Widget           | Dynamic updates            |
+| 33   | Quiz App              | State management, timers   |
+| 34   | Traffic Light         | setTimeout, state cycle    |
+| 35   | Analog Clock          | CSS transform, Date API    |
+| 36   | Grid Lights           | Matrix logic, events       |
+| 37   | Memory Game           | Arrays, game state         |
+| 38   | Tic Tac Toe           | Game logic                 |
+| 39   | Snake Game            | Animation, keyboard events |
+| 40   | Connect Four          | Complex game logic         |
+| 41   | Mortgage Calculator   | Forms, calculations        |
+| 42   | Temperature Converter | Input handling             |
+| 43   | Flight Booker         | Date handling, forms       |
+| 44   | Generate Table        | DOM generation             |
+| 45   | Chat Application UI   | Message rendering          |
+| 46   | Notification System   | Timers, queues             |
+| 47   | Search Filters Panel  | Filtering logic            |
+| 48   | Image Lazy Loading    | Performance optimization   |
+| 49   | Custom Event Emitter  | JavaScript internals       |
+| 50   | Selectable Grid       | Mouse events, coordinates  |
+
+---
+
+# If You Are Applying for Fresher Frontend Roles, Master These 15 First
+
+If you have limited time, do these before anything else:
+
+1. Todo List
+2. Autocomplete
+3. Debounced Search
+4. Modal
+5. Dropdown
+6. Accordion
+7. Tabs
+8. Form Validation
+9. Pagination
+10. Infinite Scroll
+11. Data Table
+12. Carousel
+13. Stopwatch
+14. Drag & Drop
+15. Kanban Board
+
+These 15 alone cover most **frontend machine coding rounds for 0–2 years experience**.
+
+After completing them, add:
+
+* Nested Comments
+* File Explorer
+* Job Board
+* Image Gallery
+* OTP Input
+
+These will make you comfortable with almost any fresher-level frontend machine coding interview.
+
