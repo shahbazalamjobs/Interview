@@ -355,8 +355,8 @@ These are valuable but slightly lower priority.
 
 ## 1. HTML, CSS, JavaScript & Security
 
-- LearnersBucket JavaScript SDE Cheat Sheet  
-  https://learnersbucket.com/javascript-sde-cheat-sheet/
+- HTML CSS JS React
+  [https://learnersbucket.com/javascript-sde-cheat-sheet/](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
 
 - JavaScript Coding Interview Questions (GitHub)  
   https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview-questions-answers
