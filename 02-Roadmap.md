@@ -356,7 +356,8 @@ These are valuable but slightly lower priority.
 ## 1. HTML, CSS, JavaScript & Security
 
 - HTML CSS JS React
-  [Link](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
+  [Link 1](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
+  [Link 2](https://www.greatfrontend.com/blog/50-must-know-html-css-and-javascript-interview-questions-by-ex-interviewers)
 
 - JavaScript Coding Interview Questions (GitHub)  
   https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview-questions-answers
@@ -387,7 +388,7 @@ https://jscodechallenges.vercel.app/concepts/primitives
 
 ## 4. React
 
-> Add your React interview preparation resources here.
+> https://www.greatfrontend.com/blog/100-react-interview-questions-straight-from-ex-interviewers
 
 ---
 
