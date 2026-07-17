@@ -256,6 +256,9 @@ Leetcode JS problems: https://leetcode.com/studyplan/30-days-of-javascript/
 11. Debouncing and Throttling – Implementation, Examples, etc.
 12. Event Propagation – Bubbling, Capturing, and Delegation
 13. 12 Polyfills – Promise(), Memoize(), Bind(), Reduce(), Map(), etc.
+14.  Flatten.
+15.  Prototype.
+    
 
 ### Next Important
 
@@ -266,6 +269,7 @@ Leetcode JS problems: https://leetcode.com/studyplan/30-days-of-javascript/
 5. Critical Rendering Path – How browsers parse HTML/CSS/JS, layout thrashing, and render blocking
 6. Intersection & Mutation Observers – High-performance layout tracking and infinite scroll mechanics
 7. JavaScript Design Patterns – Implementing Singleton, Factory, Observer, and Module patterns
+8. DOM	DOM traversal, DOM creation, DOM manipulation, Accessing element/node properties, Event delegation
 
 ---
 
