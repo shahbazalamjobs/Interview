@@ -273,6 +273,15 @@ Leetcode JS problems: https://leetcode.com/studyplan/30-days-of-javascript/
 
 ---
 
+## Javascript based - Output based questions
+
+1) https://plainenglish.io/javascript/50-javascript-output-questions
+2) Do solve some array string, object etc Javascript problems.
+
+
+
+---
+
 # React
 
 
@@ -343,3 +352,23 @@ These are valuable but slightly lower priority.
 ---
 
 
+
+---
+
+# Interview Preparation
+
+1) html css js security overall - 
+   a) https://learnersbucket.com/javascript-sde-cheat-sheet/
+   b) https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview-questions-answers
+   c) Indepth JS (Akshay Saini Notes): https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Akshay%20Saini%20Notes/Akshay%20Saini%20-%20Notes-%20Cheatsheet.pdf
+3)  GFE:
+   a) Javascript: https://www.greatfrontend.com/questions/quiz/javascript-interview-questions?language=js&tab=quiz#explain-the-concept-of-input-validation-and-its-importance-in-security
+   b) HTML: https://www.greatfrontend.com/questions/quiz/html-interview-questions?language=html&tab=quiz#whats-the-difference-between-an-attribute-and-a-property
+   c) CSS: https://www.greatfrontend.com/questions/quiz/css-interview-questions?language=css&tab=quiz#whats-the-difference-between-inline-and-inline-block
+5) JS Challenges: https://jscodechallenges.vercel.app/concepts/primitives
+6) 
+
+
+7) Other Topics
+   a) System Design Basics: https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Imp%20Topics/30%20imp%20topics%20of%20system%20design.docx
+   b) Internet and Networking
