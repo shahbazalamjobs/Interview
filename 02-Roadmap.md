@@ -260,35 +260,49 @@ These are valuable but slightly lower priority.
 
 ---
 
-# If You Are Applying for Fresher Frontend Roles, Master These 15 First
+**Most Important**
 
-If you have limited time, do these before anything else:
+| No. | Topic |
+|---|---|
+| 1 | accordion |
+| 2 | tabs |
+| 3 | modal-popup |
+| 4 | custom-dropdown |
+| 5 | multi-step-form-validation-check |
+| 6 | signup-form |
+| 7 | to-do-list |
+| 8 | star-rating |
+| 9 | infinite-scroll |
+| 10 | traffic |
 
-1. Todo List
-2. Autocomplete
-3. Debounced Search
-4. Modal
-5. Dropdown
-6. Accordion
-7. Tabs
-8. Form Validation
-9. Pagination
-10. Infinite Scroll
-11. Data Table
-12. Carousel
-13. Stopwatch
-14. Drag & Drop
-15. Kanban Board
+**Next Important**
 
-These 15 alone cover most **frontend machine coding rounds for 0–2 years experience**.
+| No. | Topic |
+|---|---|
+| 1 | virtualized-list |
+| 2 | weather-app |
+| 3 | list-filter |
+| 4 | drag-and-drop |
+| 5 | counter |
+| 6 | stopwtch |
+| 7 | countdown |
+| 8 | theme-mode |
 
-After completing them, add:
+**Next (Lower Priority)**
 
-* Nested Comments
-* File Explorer
-* Job Board
-* Image Gallery
-* OTP Input
-
-These will make you comfortable with almost any fresher-level frontend machine coding interview.
-
+| No. | Topic |
+|---|---|
+| 1 | responsive-layout-flexbox |
+| 2 | responsive-layout-grid-box |
+| 3 | grail |
+| 4 | carousel |
+| 5 | digital-clock |
+| 6 | analog-clock |
+| 7 | progress-bar |
+| 8 | like-button |
+| 9 | contact-form |
+| 10 | generate-table |
+| 11 | tweet |
+| 12 | temperature-calculator |
+| 13 | instalment-calculator |
+| 14 | data-board |
