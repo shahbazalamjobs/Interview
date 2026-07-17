@@ -184,17 +184,95 @@ I would add categories and an undo option for deletes.
 
 ---
 
+### Machine Coding Round (HTML CSS)
 
-For a **fresher frontend developer (HTML + CSS + JavaScript) machine coding round**, you should prioritize problems that are repeatedly asked because they test practical frontend skills.
 
-I have ranked them based on:
+**Most Important**
 
-* Interview frequency
-* Real-world frontend usage
-* Concepts covered
-* Difficulty suitable for fresher/SDE-1
+| No. | Topic |
+|---|---|
+| 1 | accordion |
+| 2 | tabs |
+| 3 | modal-popup |
+| 4 | custom-dropdown |
+| 5 | multi-step-form-validation-check |
+| 6 | signup-form |
+| 7 | to-do-list |
+| 8 | star-rating |
+| 9 | infinite-scroll |
+| 10 | traffic |
 
-# 🔥 Top 30 Most Important Machine Coding Problems (Fresher Level)
+**Next Important**
+
+| No. | Topic |
+|---|---|
+| 1 | virtualized-list |
+| 2 | weather-app |
+| 3 | list-filter |
+| 4 | drag-and-drop |
+| 5 | counter |
+| 6 | stopwtch |
+| 7 | countdown |
+| 8 | theme-mode |
+
+**Next (Lower Priority)**
+
+| No. | Topic |
+|---|---|
+| 1 | responsive-layout-flexbox |
+| 2 | responsive-layout-grid-box |
+| 3 | grail |
+| 4 | carousel |
+| 5 | digital-clock |
+| 6 | analog-clock |
+| 7 | progress-bar |
+| 8 | like-button |
+| 9 | contact-form |
+| 10 | generate-table |
+| 11 | tweet |
+| 12 | temperature-calculator |
+| 13 | instalment-calculator |
+| 14 | data-board |
+
+
+---
+## Javascript Problems Solving
+
+Leetcode JS problems: https://leetcode.com/studyplan/30-days-of-javascript/
+
+
+### Most Important
+
+1. Var, Let, and Const – Hoisting, Scoping, Shadowing, and more
+2. Map, Filter, and Reduce – Polyfills and Output-Based Questions
+3. Functions – Hoisting, Scope, Callback, Arrow Functions, etc.
+4. Closures – Lexical Scope, Output-Based Questions, Polyfills
+5. Currying – Output-Based Questions, Partial Application, and more
+6. Objects – Output-Based, Destructuring, Object Referencing, etc.
+7. 'this' Keyword – Output-Based, Scope, Implicit Binding, etc.
+8. Call, Bind, and Apply – Polyfills, Output-Based, Explicit Binding
+9. Course Update: Watch this before joining my Frontend Interview Prep Course
+10. Promises – Polyfills, Callbacks, Async/Await, Output-Based, etc.
+11. Debouncing and Throttling – Implementation, Examples, etc.
+12. Event Propagation – Bubbling, Capturing, and Delegation
+13. 12 Polyfills – Promise(), Memoize(), Bind(), Reduce(), Map(), etc.
+
+### Next Important
+
+1. The Event Loop Deep Dive – Macro-task vs. Micro-task queues, execution order, and starvation
+2. Modules (ESM vs. CJS) – Static analysis vs. runtime execution (import vs. require)
+3. Browser Storage Systems – Detailed security and performance comparison of LocalStorage, SessionStorage, Cookies, and IndexedDB
+4. Deep vs. Shallow Cloning – structuredClone behavior and writing custom recursive deep clone utilities
+5. Critical Rendering Path – How browsers parse HTML/CSS/JS, layout thrashing, and render blocking
+6. Intersection & Mutation Observers – High-performance layout tracking and infinite scroll mechanics
+7. JavaScript Design Patterns – Implementing Singleton, Factory, Observer, and Module patterns
+
+---
+
+# React
+
+
+### 🔥 ReactTop 30 Most Important Machine Coding Problems (Fresher Level)
 
 | Rank | Problem                                      | Main Concepts Tested                                   |
 | ---- | -------------------------------------------- | ------------------------------------------------------ |
@@ -260,49 +338,4 @@ These are valuable but slightly lower priority.
 
 ---
 
-**Most Important**
 
-| No. | Topic |
-|---|---|
-| 1 | accordion |
-| 2 | tabs |
-| 3 | modal-popup |
-| 4 | custom-dropdown |
-| 5 | multi-step-form-validation-check |
-| 6 | signup-form |
-| 7 | to-do-list |
-| 8 | star-rating |
-| 9 | infinite-scroll |
-| 10 | traffic |
-
-**Next Important**
-
-| No. | Topic |
-|---|---|
-| 1 | virtualized-list |
-| 2 | weather-app |
-| 3 | list-filter |
-| 4 | drag-and-drop |
-| 5 | counter |
-| 6 | stopwtch |
-| 7 | countdown |
-| 8 | theme-mode |
-
-**Next (Lower Priority)**
-
-| No. | Topic |
-|---|---|
-| 1 | responsive-layout-flexbox |
-| 2 | responsive-layout-grid-box |
-| 3 | grail |
-| 4 | carousel |
-| 5 | digital-clock |
-| 6 | analog-clock |
-| 7 | progress-bar |
-| 8 | like-button |
-| 9 | contact-form |
-| 10 | generate-table |
-| 11 | tweet |
-| 12 | temperature-calculator |
-| 13 | instalment-calculator |
-| 14 | data-board |
