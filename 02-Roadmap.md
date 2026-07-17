@@ -351,59 +351,70 @@ These are valuable but slightly lower priority.
 
 
 ---
+
 # Interview Preparation
 
 ## 1. HTML, CSS, JavaScript & Security
 
-- HTML CSS JS React
-  a) [Link 1](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
-  
-  b) [Link 2](https://www.greatfrontend.com/blog/50-must-know-html-css-and-javascript-interview-questions-by-ex-interviewers)
+### HTML, CSS, JavaScript & React
+- **Interview Preparation Repository**
+  - [Interview Preparation](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview_Preparation)
+  - [50 Must-Know HTML, CSS & JavaScript Interview Questions (GreatFrontEnd)](https://www.greatfrontend.com/blog/50-must-know-html-css-and-javascript-interview-questions-by-ex-interviewers)
 
-- JavaScript Coding Interview Questions (GitHub)  
-  https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview-questions-answers
+### JavaScript Interview Questions
+- [JavaScript Coding Interview Questions (GitHub)](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Interview-questions-answers)
 
-- In-Depth JavaScript (Akshay Saini Notes)  
-  https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Akshay%20Saini%20Notes/Akshay%20Saini%20-%20Notes-%20Cheatsheet.pdf
+### JavaScript Notes
+- [Akshay Saini – In-Depth JavaScript Notes (Cheat Sheet)](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Akshay%20Saini%20Notes/Akshay%20Saini%20-%20Notes-%20Cheatsheet.pdf)
 
 ---
 
 ## 2. GreatFrontEnd (GFE)
 
 ### JavaScript
-https://www.greatfrontend.com/questions/quiz/javascript-interview-questions?language=js&tab=quiz#explain-the-concept-of-input-validation-and-its-importance-in-security
+- https://www.greatfrontend.com/questions/quiz/javascript-interview-questions?language=js&tab=quiz
 
 ### HTML
-https://www.greatfrontend.com/questions/quiz/html-interview-questions?language=html&tab=quiz#whats-the-difference-between-an-attribute-and-a-property
+- https://www.greatfrontend.com/questions/quiz/html-interview-questions?language=html&tab=quiz
 
 ### CSS
-https://www.greatfrontend.com/questions/quiz/css-interview-questions?language=css&tab=quiz#whats-the-difference-between-inline-and-inline-block
+- https://www.greatfrontend.com/questions/quiz/css-interview-questions?language=css&tab=quiz
 
 ---
 
 ## 3. JavaScript Challenges
 
-https://jscodechallenges.vercel.app/concepts/primitives
+- https://jscodechallenges.vercel.app/concepts/primitives
 
 ---
 
 ## 4. React
 
-> https://www.greatfrontend.com/blog/100-react-interview-questions-straight-from-ex-interviewers
+### React Interview Questions
+- https://www.greatfrontend.com/blog/100-react-interview-questions-straight-from-ex-interviewers
 
 ---
 
 ## 5. Machine Coding
 
-> Add machine coding questions and practice resources here.
+### HTML, CSS & JavaScript
+- *(Add machine coding resources here)*
+
+### React
+- *(Add React machine coding resources here)*
 
 ---
 
 ## 6. Other Topics
 
 ### System Design Basics
-https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Imp%20Topics/30%20imp%20topics%20of%20system%20design.docx
+- https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Imp%20Topics/30%20imp%20topics%20of%20system%20design.docx
 
 ### Internet & Networking
+- *(Add networking resources here)*
 
-> Add networking resources here.
+### Browser Internals
+- *(Add browser rendering, event loop, rendering pipeline resources here)*
+
+### Frontend Performance
+- *(Add Core Web Vitals, Lighthouse, optimization resources here)*
