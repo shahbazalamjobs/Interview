@@ -1,4 +1,6 @@
-# Fresher Frontend Portfolio — 3 Projects
+# 1) HTML CSS JS
+
+## Fresher Frontend Portfolio — 3 Projects
 
 Build each project twice:
 1. **Phase 1 — HTML, CSS, JS (vanilla).** Get the logic and UI states right without a framework.
