@@ -6,7 +6,7 @@ If your goal is to **learn every important React concept before building a large
 
 ## Initial Project
 
-1) Figma -> React + Tailwind
+1) Figma -> React + Tailwind : https://www.figma.com/design/epr0XDSyv5kyVfmgAMI1Ve/Launch-UI-%E2%80%93-Landing-Page-Templates---Components--Community-?node-id=59-1931&p=f&t=j0VFCNHkbL0nrcbI-0
 
 | #      | Project                        | Main Concepts                                                                        |
 | ------ | ------------------------------ | ------------------------------------------------------------------------------------ |
