@@ -395,17 +395,7 @@ These are valuable but slightly lower priority.
 
 ---
 
-## 5. Machine Coding
-
-### HTML, CSS & JavaScript
-- *(Add machine coding resources here)*
-
-### React
-- *(Add React machine coding resources here)*
-
----
-
-## 6. Other Topics
+## 5. Other Topics
 
 ### System Design Basics
 - https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/blob/master/Imp%20Topics/30%20imp%20topics%20of%20system%20design.docx
