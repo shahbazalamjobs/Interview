@@ -9,7 +9,8 @@ If your goal is to **learn every important React concept before building a large
 1) Figma -> React + Tailwind : [Figma Link](https://www.figma.com/design/epr0XDSyv5kyVfmgAMI1Ve/Launch-UI-%E2%80%93-Landing-Page-Templates---Components--Community-?node-id=59-1931&p=f&t=j0VFCNHkbL0nrcbI-0)
 
  ```js
- Use AI to make this project to learn best practices and how projects are made. Then make complex project by self.
+- Use AI to make this project to learn best practices and how projects are made.
+- Then make complex project by self.
 ```
 
 | #      | Project                        | Main Concepts                                                                        |
