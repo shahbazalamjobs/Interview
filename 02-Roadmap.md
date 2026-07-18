@@ -28,6 +28,8 @@ project-name/
 
 A multi-step job application form that feels like a small product workflow.
 
+Figma Link: https://www.figma.com/design/RROEazdauSDRUg9chMlTIA/Multi-Step-Form---Template--Community-?node-id=1-5107&p=f&t=nAkETTmf9rMWcWfA-0
+
 ### Required Features (both phases)
 - 3–4 steps
 - Required fields
@@ -351,6 +353,14 @@ These are valuable but slightly lower priority.
 
 
 ---
+
+# Projects
+
+## React Projects
+
+
+---
+
 
 # Interview Preparation
 
