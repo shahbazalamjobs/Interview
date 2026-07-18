@@ -4,6 +4,10 @@
 
 If your goal is to **learn every important React concept before building a large project**, it's better to build **many small apps**, where each introduces 2–4 concepts. By the end, you'll naturally combine everything into one full-stack application.
 
+## Initial Project
+
+1) Figma -> React + Tailwind
+
 | #      | Project                        | Main Concepts                                                                        |
 | ------ | ------------------------------ | ------------------------------------------------------------------------------------ |
 | **1**  | **Todo App**                   | React 19, TypeScript, CRUD, Custom Hooks, Toasts, Responsive UI                      |
